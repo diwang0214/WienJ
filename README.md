@@ -7,7 +7,7 @@ We present an open-source software package WIENJ, a software to estimate magneti
 [https://github.com/diwang0214/WienJ](https://github.com/diwang0214/WienJ)
 
 ## Usage and Tutorial
-See userguide.pdf in the package
+See userguide.pdf in the package.
 
 ## Citation
 If you use our code for your research, please cite  
