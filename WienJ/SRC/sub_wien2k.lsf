@@ -1,0 +1,6 @@
+#!/bin/sh
+#BSUB -J WIENJ   
+#BSUB -n 1 
+#BSUB -q e52682v4opa!
+
+mpirun $SZJROOT/szjq       
