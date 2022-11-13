@@ -8,6 +8,7 @@ We present an open-source software package WIENJ, a software to estimate magneti
 
 ## Citation
 If you use our code for your research, please cite  
+
 X. Wan, Q. Yin, and S. Y. Savrasov, Phys. Rev. Lett. 97, 266403 (2006).
 
 ## Authors
