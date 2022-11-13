@@ -1,0 +1,6 @@
+#!/bin/sh
+#BSUB -J WienJ   
+#BSUB -n 32 
+#BSUB -q 6226rib!
+
+mpirun wienj       
