@@ -1,0 +1,6 @@
+1 1  (first atom: index and multiplicity index)
+1 1  (second atom: index and multiplicity index)
+1    (1: FM; 0: AFM. the magnetic conguration you set in first-principles calculation)
+1    (1: with SOC; 0: without SOC)
+3    (1: J; 2: DM; 3: Both)
+5.0  (Rmax)
