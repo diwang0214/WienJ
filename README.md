@@ -12,7 +12,7 @@ See userguide.pdf in the package.
 ## Citation
 If you use our code for your research, please cite  
 
-X. Wan, Q. Yin, and S. Y. Savrasov, Phys. Rev. Lett. 97, 266403 (2006).
+Di Wang, Xiangyan Bo, Feng Tang, Xiangang Wan, arXiv:2212.13963
 
 ## Authors
 * Xiangyan Bo, Nanjing University
