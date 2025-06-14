@@ -12,7 +12,7 @@ See userguide.pdf in the package.
 ## Citation
 If you use our code for your research, please cite  
 
-Di Wang, Xiangyan Bo, Feng Tang, Xiangang Wan, arXiv:2212.13963
+Di Wang, Xiangyan Bo, Feng Tang, Xiangang Wan, [PhysRevB.108.085140 (2023)](https://doi.org/10.1103/PhysRevB.108.085140)
 
 ## Authors
 * Xiangyan Bo, Nanjing University
