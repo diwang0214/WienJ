@@ -12,11 +12,11 @@ See userguide.pdf in the package.
 ## Citation
 If you use our code for your research, please cite  
 
-Di Wang, Xiangyan Bo, Feng Tang, Xiangang Wan, [PhysRevB.108.085140 (2023)](https://doi.org/10.1103/PhysRevB.108.085140)
+Di Wang, Xiangyan Bo, Feng Tang, Xiangang Wan,"First-principles study of the spin-orbit coupling contribution to anisotropic magnetic interactions" [PhysRevB.108.085140 (2023)](https://doi.org/10.1103/PhysRevB.108.085140)
 
 ## Authors
 * Di Wang, Nanjing University
-* Xiangyan Bo, 3Nanjing University of Posts and Telecommunications
+* Xiangyan Bo, Nanjing University of Posts and Telecommunications
 * Feng Tang, Nanjing University
 * Xiangang Wan, Nanjing University
 
