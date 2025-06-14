@@ -15,8 +15,9 @@ If you use our code for your research, please cite
 Di Wang, Xiangyan Bo, Feng Tang, Xiangang Wan, [PhysRevB.108.085140 (2023)](https://doi.org/10.1103/PhysRevB.108.085140)
 
 ## Authors
-* Xiangyan Bo, Nanjing University
 * Di Wang, Nanjing University
+* Xiangyan Bo, 3Nanjing University of Posts and Telecommunications
+* Feng Tang, Nanjing University
 * Xiangang Wan, Nanjing University
 
 ## Correspondence
